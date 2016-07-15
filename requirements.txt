@@ -1,4 +1,4 @@
-ipython[notebook]
+notebook
 
 # For presentation mode in Jupyter (old name is IPython Notebook) install
 # RISE: https://github.com/damianavila/RISE
