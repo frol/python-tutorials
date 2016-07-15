@@ -1,10 +1,10 @@
 # Showcases to dive into Python in an hour
 
-You'll need Jupyter Notebook (f.k.a. IPython Notebook until version 3.0) to
-see all features.
+You'll need [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html)
+(f.k.a. IPython Notebook until version 3.0) to see all features.
 
-In these demos I focused on Python 2.7, though there should be no problems to
-run them on Python 3.4+.
+In these demos I focused on Python 3.5, though there should be no problems to
+run them on Python 2.7 and 3.4+.
 
 
 ## Download Python Tutorials
